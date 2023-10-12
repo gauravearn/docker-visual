@@ -1,0 +1,12 @@
+REPOSITORY                                                TAG                                                                          IMAGE ID       CREATED         SIZE
+ubuntu                                                    latest                                                                       3565a89d9e81   2 weeks ago     77.8MB
+hubproxy.docker.internal:5555/docker/desktop-kubernetes   kubernetes-v1.27.2-cni-v1.2.0-critools-v1.27.0-cri-dockerd-v0.3.2-1-debian   c763812a4530   4 months ago    418MB
+registry.k8s.io/kube-apiserver                            v1.27.2                                                                      c5b13e4f7806   4 months ago    121MB
+registry.k8s.io/kube-scheduler                            v1.27.2                                                                      89e70da428d2   4 months ago    58.4MB
+registry.k8s.io/kube-controller-manager                   v1.27.2                                                                      ac2b7465ebba   4 months ago    112MB
+registry.k8s.io/kube-proxy                                v1.27.2                                                                      b8aa50768fd6   4 months ago    71.1MB
+docker/desktop-vpnkit-controller                          dc331cb22850be0cdd97c84a9cfecaf44a1afb6e                                     556098075b3d   5 months ago    36.2MB
+registry.k8s.io/coredns/coredns                           v1.10.1                                                                      ead0a4a53df8   8 months ago    53.6MB
+registry.k8s.io/etcd                                      3.5.7-0                                                                      86b6af7dd652   8 months ago    296MB
+registry.k8s.io/pause                                     3.9                                                                          e6f181688397   12 months ago   744kB
+docker/desktop-storage-provisioner                        v2.0                                                                         99f89471f470   2 years ago     41.9MB
