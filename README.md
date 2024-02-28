@@ -5,7 +5,8 @@ I applied nushell rust programming approach to docker containerization and creat
 ![docker1](https://github.com/sablokgaurav/docker_containerization_arrays/blob/main/docker_image2.png)
 
 Gaurav Sablok \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
-Python Packages Published : https://pypi.org/user/sablokgaurav/
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany 
